@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D4H Expenses to Excel", "D4H Expenses to Excel\D4H Expenses to Excel.csproj", "{925D18FC-4966-4643-B47C-9A577FF9C107}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{925D18FC-4966-4643-B47C-9A577FF9C107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{925D18FC-4966-4643-B47C-9A577FF9C107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{925D18FC-4966-4643-B47C-9A577FF9C107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{925D18FC-4966-4643-B47C-9A577FF9C107}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCEA208A-6716-4565-8E68-1B3DA2C8D722}
+	EndGlobalSection
+EndGlobal
